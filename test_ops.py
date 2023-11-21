@@ -8,4 +8,3 @@ def test_add():
 def test_mult():
     assert pd.multiply(5,5) == 25
 
-pritn()
